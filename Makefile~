@@ -2,6 +2,7 @@ all:
 	javac -g *.java
 
 testscript:
+	rm -f test/*.out
 	./testscript.sh
 
 clean:
