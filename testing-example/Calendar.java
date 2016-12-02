@@ -22,8 +22,5 @@ public class Calendar {
         toScreen.setStartDay(d);
 
         toScreen.printCalendar();
-
-	// testing
-	// one two
      }
 }
