@@ -8,3 +8,5 @@ compiler:
 
 script:
 - make && make testscript
+
+sudo: required
